@@ -9,7 +9,7 @@ Bachelor of Science in Information Technology <br>New Era University 2024 - Pres
 
 
 ## Certifications
-https://courses.cognitiveclass.ai/certificates/7d085c13ad924131b0f3522f00c45378
+<a href="[https://your-link.com](https://courses.cognitiveclass.ai/certificates/7d085c13ad924131b0f3522f00c45378)">SQL and Relational Databases 101</a>
 
 
 ## Skill Set
