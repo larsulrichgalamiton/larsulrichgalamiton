@@ -5,7 +5,7 @@ I have a strong passion for coding and solid skills in database management. I en
 
 
 ## Education
-Bachelor of Science in Information Technology New Era University 2024 - Present
+Bachelor of Science in Information Technology <br>New Era University 2024 - Present
 
 
 ## Certifications
