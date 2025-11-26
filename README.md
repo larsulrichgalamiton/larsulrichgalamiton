@@ -13,4 +13,4 @@ Bachelor of Science in Information Technology <br>New Era University 2024 - Pres
 
 
 ## Skill Set
-Programming: Java <br>Databases: <br>IBM DB2 Cloud <br>Tools: Visual Studio Code, Eclipse, HTML
+Programming: Java <br>Databases: IBM DB2 Cloud <br>Tools: Visual Studio Code, Eclipse, HTML
