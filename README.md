@@ -10,7 +10,7 @@ Bachelor of Science in Information Technology <br>New Era University 2024 - Pres
 
 ## Certifications 📜
 * SQL and Relational Databases 101
-<a href="https://courses.cognitiveclass.ai/certificates/7d085c13ad924131b0f3522f00c45378">View Certificate<br></a>
+<a href="https://courses.cognitiveclass.ai/certificates/7d085c13ad924131b0f3522f00c45378"><br>View Certificate<br></a>
 * OCI Foundations Associate (2025)
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=26976AB41A161680A5F1FFBA0ABB5070E4F093036E8F9B1E9CFE61FE104F4597">View Badge<br></a>
 * Oracle Data Platform Foundations Associate
