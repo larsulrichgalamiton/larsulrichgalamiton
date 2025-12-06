@@ -1,4 +1,4 @@
-## Hello Lars Galamiton here!
+##👋Hello Lars Galamiton here!
 
 
 I have a strong passion for coding and solid skills in database management. I enjoy tackling complex challenges and creating efficient, well-designed solutions. My journey in the tech world began when I pursued a BS in Information Technology.
