@@ -17,3 +17,6 @@ Bachelor of Science in Information Technology <br>New Era University 2024 - Pres
 
 ## Skill Set 🛠️
 Programming: Java <br>Databases: IBM DB2 Cloud <br>Tools: Visual Studio Code, Eclipse, HTML
+
+## Personal Project
+* <a href="https://neu-visitor-log.page.gd/?i=1">NEU Library Visitor Log<br></a>
