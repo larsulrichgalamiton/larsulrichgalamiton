@@ -21,4 +21,4 @@ Programming: Java <br>Databases: IBM DB2 Cloud <br>Tools: Visual Studio Code, Ec
 ## Personal Project
 * <a href="https://neu-visitor-log.page.gd/?i=1">NEU Library Visitor Log<br></a>
 * <a href="https://drive.google.com/drive/folders/1MIrrXKp40TMQtyIrGMTWiIh4E5f3U6vl?usp=drive_link">Video DEMO<br></a>
-* <a href="https://drive.google.com/drive/folders/1oM5OZtcpuywwLjZGs5PDhZ3s0XFAOW3g?usp=drive_link">Video DEMO<br></a>
+* <a href="https://drive.google.com/drive/folders/1oM5OZtcpuywwLjZGs5PDhZ3s0XFAOW3g?usp=drive_link">Code Files<br></a>
